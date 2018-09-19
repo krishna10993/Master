@@ -1,0 +1,1 @@
+java -cp "D:\Technocredits\May18_E\POM\bin;D:\Technocredits\May18_E\POM\lib\*;" org.testng.TestNG testng.xml
